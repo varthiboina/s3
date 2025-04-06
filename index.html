@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Folder</title>
+</head>
+<body>
+    <h2>Select Folder to Upload</h2>
+    
+    <!-- Input for selecting a folder -->
+    <input type="file" id="fileInput" webkitdirectory directory multiple />
+    
+    <!-- Upload Button -->
+    <button id="uploadButton">Upload</button>
+
+    <script>
+        document.getElementById('uploadButton').addEventListener('click', function() {
+            const fileInput = document.getElementById('fileInput');
+            const files = fileInput.files;
+
+            if (files.length === 0) {
+                alert('Please select a folder to upload.');
+                return;
+            }
+
+            const filePaths = [];
+            const formData = new FormData();
+
+            for (const file of files) {
+                formData.append('files[]', file); // Append the file
+    formData.append('paths[]', file.webkitRelativePath);// Append files
+                const relativePath = './uploads/' + file.webkitRelativePath;
+                if (!filePaths.includes(relativePath)) {
+                    filePaths.push(relativePath);
+                }
+            }
+
+            formData.append('filePaths', JSON.stringify(filePaths)); // Append paths
+
+            fetch('/upload', {
+                method: 'POST',
+                body: formData,
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert('Files uploaded successfully!');
+                console.log('Uploaded file paths:', data.filePaths);
+            })
+            .catch(error => {
+                alert('Error uploading files.');
+                console.error('Upload error:', error);
+            });
+        });
+    </script>
+</body>
+</html>
