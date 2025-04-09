@@ -5,7 +5,7 @@ const path = require('path');
 
 // Use environment variables for EC2 IP and known_hosts path
 const ec2Ip = process.env.EC2_IP; 
-const knownHostsPath = path.join('/home', 'dan', '.ssh', 'known_hosts');
+const knownHostsPath = path.join('/home', 'ec2-user', '.ssh', 'known_hosts');
 
 const addEc2ToKnownHosts = (req, res, next) => {
   // Check if the host already exists in the known_hosts file
