@@ -1,11 +1,13 @@
+require('dotenv').config();  // Load environment variables from .env file
 const { exec } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const addEc2ToKnownHosts = (req, res, next) => {
-  const ec2Ip = '3.87.72.50'; // EC2 IP address (hardcoded or retrieved from the request)
-  const knownHostsPath = path.join('C:', 'Users', 'dhanu', '.ssh', 'known_hosts'); // Windows path
+// Use environment variables for EC2 IP and known_hosts path
+const ec2Ip = process.env.EC2_IP; 
+const knownHostsPath = path.join('/home', 'dan', '.ssh', 'known_hosts');
 
+const addEc2ToKnownHosts = (req, res, next) => {
   // Check if the host already exists in the known_hosts file
   fs.readFile(knownHostsPath, 'utf8', (err, data) => {
     if (err) {
@@ -19,8 +21,9 @@ const addEc2ToKnownHosts = (req, res, next) => {
       return next(); // Skip adding and proceed to next middleware
     }
 
-    // Use ssh-keyscan to get the SSH key for the EC2 instance, using the shell for proper redirection
-    const command = `ssh-keyscan -H ${ec2Ip} >> "${knownHostsPath}"`; // Using shell redirection
+    // Use ssh-keyscan to get the SSH key for the EC2 instance, with no prompt
+    const command = `ssh-keyscan -H ${ec2Ip} >> "${knownHostsPath}"`;
+
     exec(command, { shell: true }, (execErr, stdout, stderr) => {
       if (execErr) {
         console.error('Error with ssh-keyscan:', execErr);
@@ -35,3 +38,4 @@ const addEc2ToKnownHosts = (req, res, next) => {
 };
 
 module.exports = addEc2ToKnownHosts;
+

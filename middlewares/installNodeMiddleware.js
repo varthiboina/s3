@@ -1,5 +1,6 @@
 const { Client } = require('ssh2');
 const fs = require('fs');
+require('dotenv').config();
 
 const installNodeOnEC2 = (req, res, next) => {
   const conn = new Client();
@@ -16,23 +17,28 @@ const installNodeOnEC2 = (req, res, next) => {
             if (code !== 0) {
               // If Node.js is not installed, proceed with the installation
               console.log('Node.js is not installed, proceeding with installation.');
-              conn.exec(
-                'sudo yum install -y gcc-c++ make && curl -sL https://rpm.nodesource.com/setup_18.x | sudo -E bash - && sudo yum install -y nodejs',
-                (installErr, installStream) => {
-                  if (installErr) {
-                    console.error('Install error:', installErr);
-                    return next();
-                  }
-                  installStream
-                    .on('close', (installCode, installSignal) => {
-                      console.log(`Node.js installation exited with code ${installCode}`);
-                      conn.end();
-                      next();
-                    })
-                    .on('data', (data) => console.log(`STDOUT: ${data}`))
-                    .stderr.on('data', (data) => console.error(`STDERR: ${data}`));
+
+              // Installation command for Node.js
+              const installCommand = `
+                sudo yum install -y gcc-c++ make && 
+                curl -sL https://rpm.nodesource.com/setup_18.x | sudo -E bash - && 
+                sudo yum install -y nodejs
+              `;
+
+              conn.exec(installCommand, (installErr, installStream) => {
+                if (installErr) {
+                  console.error('Install error:', installErr);
+                  return next();
                 }
-              );
+                installStream
+                  .on('close', (installCode, installSignal) => {
+                    console.log(`Node.js installation exited with code ${installCode}`);
+                    conn.end();
+                    next();
+                  })
+                  .on('data', (data) => console.log(`STDOUT: ${data}`))
+                  .stderr.on('data', (data) => console.error(`STDERR: ${data}`));
+              });
             } else {
               console.log('Node.js is already installed.');
               conn.end();
@@ -44,10 +50,10 @@ const installNodeOnEC2 = (req, res, next) => {
       });
     })
     .connect({
-      host: '3.87.72.50',
-      port: 22,
-      username: 'ec2-user',
-      privateKey: fs.readFileSync('C:/Users/dhanu/OneDrive/Desktop/NoSSHKeyPair.pem'),
+      host: process.env.EC2_IP, // EC2 instance IP
+      port: 22, // SSH port
+      username: 'ec2-user', // EC2 username
+      privateKey: fs.readFileSync(process.env.PEM_KEY_PATH), // Path to your PEM key
     });
 };
 

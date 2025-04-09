@@ -1,0 +1,766 @@
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 930ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 930ms\n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 918ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 918ms\n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 952ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 952ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 952ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 952ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 952ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 952ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 952ms\n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Angualar"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Angualar"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 926ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 926ms\n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 935ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 935ms\n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/NodeJS"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/NodeJS"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 915ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 915ms\n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/spring-boot-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Spring/Spring-Interview-Questions.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/node-js-interview-questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/NodeJS.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/NodeJS/nodejs_interview_questions.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/1000 Java Interview Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Concepts.txt"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Java/Java-Interview-Questions-and-Answers-PDF-Free-Download.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/flutter-developer-interview-questions-hard-skills.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Flutter/Flutter-Interview-Questions-and-Answers-PDF-Guide-1.pdf"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/Interview Prep/Angualar/Angular  Interview Questions & Answers Book.pdf"}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 913ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 913ms\n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/javascript-interview-questions-and-answers-pdf-free.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/JavaScript/JavaScript-Interview-Questions.pdf"}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 946ms\n"}
+{"level":"info","message":"📦 OUT: \nup to date, audited 179 packages in 946ms\n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 32 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/index.html"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/index.html"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/index.html"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package-lock.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package-lock.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package-lock.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/server.js"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/server.js"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/server.js"}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"error","message":"⚠️ ERR: bash: line 1: cd: /home/ec2-user/uploads/EC2: No such file or directory\n"}
+{"level":"error","message":"⚠️ ERR: bash: line 1: cd: /home/ec2-user/uploads/EC2: No such file or directory\n"}
+{"level":"error","message":"⚠️ ERR: bash: line 1: cd: /home/ec2-user/uploads/EC2: No such file or directory\n"}
+{"level":"error","message":"❌ npm install failed with code 1"}
+{"level":"error","message":"❌ npm install failed with code 1"}
+{"level":"error","message":"❌ npm install failed with code 1"}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/index.html"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/index.html"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package-lock.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package-lock.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/server.js"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/server.js"}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"The parent directory /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/EC2 does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"error","message":"⚠️ ERR: bash: line 1: cd: /home/ec2-user/uploads/EC2: No such file or directory\n"}
+{"level":"error","message":"⚠️ ERR: bash: line 1: cd: /home/ec2-user/uploads/EC2: No such file or directory\n"}
+{"level":"error","message":"❌ npm install failed with code 1"}
+{"level":"error","message":"❌ npm install failed with code 1"}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/index.html"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/index.html"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package-lock.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package-lock.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/server.js"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/server.js"}
+{"level":"info","message":"/home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/node_modules does not exist."}
+{"level":"info","message":"/home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/node_modules does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"error","message":"⚠️ ERR: bash: line 1: cd: /home/ec2-user/uploads/EC2: No such file or directory\n"}
+{"level":"error","message":"⚠️ ERR: bash: line 1: cd: /home/ec2-user/uploads/EC2: No such file or directory\n"}
+{"level":"error","message":"❌ npm install failed with code 1"}
+{"level":"error","message":"❌ npm install failed with code 1"}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"SSH directory and known_hosts file are set up."}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"Successfully added 54.152.228.144 to known hosts"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ PEM key permissions set to 400"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"✔ SSH Connected"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: v18.20.8"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"STDOUT: \n"}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"Node.js is already installed."}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode"}
+{"level":"info","message":"✅ Directory created: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/index.html"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/index.html"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package-lock.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package-lock.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/package.json"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/server.js"}
+{"level":"info","message":"✅ File saved: /home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/server.js"}
+{"level":"info","message":"/home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/node_modules does not exist."}
+{"level":"info","message":"/home/dan/Node_Pojects_Linux/S3_linux/middlewares/uploads/edocode/node_modules does not exist."}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"PEM Key permissions set successfully"}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"SCP Output: "}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"✅ SSH connected."}
+{"level":"info","message":"📦 OUT: \nadded 70 packages, and audited 71 packages in 890ms\n"}
+{"level":"info","message":"📦 OUT: \nadded 70 packages, and audited 71 packages in 890ms\n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: \n"}
+{"level":"info","message":"📦 OUT: 14 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT: 14 packages are looking for funding\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT:   run `npm fund` for details\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"📦 OUT: \nfound 0 vulnerabilities\n"}
+{"level":"info","message":"✅ npm install completed."}
+{"level":"info","message":"✅ npm install completed."}

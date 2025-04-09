@@ -1,11 +1,12 @@
 const fs = require('fs');
 const { Client } = require('ssh2');
+require('dotenv').config();
 
 const cmdHandler = (req, res, next) => {
-  const pemKeyPath = 'C:/Users/dhanu/OneDrive/Desktop/NoSSHKeyPair.pem'; // Replace with your actual PEM key path
-  const ec2Ip = '3.87.72.50'; // Replace with EC2 public IP
+  const pemKeyPath = process.env.PEM_KEY_PATH; // Update with correct path on your Linux system
+  const ec2Ip = process.env.EC2_IP; // EC2 public IP
   const ec2User = 'ec2-user'; // Amazon Linux default user
-  const commandsToRun = [];
+  const commandsToRun = []; // Example commands to execute on EC2, replace with your actual commands
 
   // Ensure PEM key has 400 permissions
   try {
@@ -56,7 +57,7 @@ const cmdHandler = (req, res, next) => {
   }).connect({
     host: ec2Ip,
     username: ec2User,
-    privateKey: fs.readFileSync(pemKeyPath),
+    privateKey: fs.readFileSync(pemKeyPath), // Make sure the PEM path is correct for your Linux system
   });
 };
 

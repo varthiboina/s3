@@ -5,6 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Upload Folder</title>
 </head>
+<style>
+        .scrollable-window {
+            width: 600px;
+            height: 400px;
+            overflow: auto; /* Enables scroll when content exceeds the container's size */
+            border: 10px solid #4b4e4e;
+            margin-top: 10px;
+            padding: 5px;
+            background-color: black; /* Black background */
+            color: green; /* Green text */
+            font-family: monospace; /* Optional: Makes the font look like preformatted text */
+            white-space: pre; /* Preserves spaces and newlines, similar to <pre> */
+        }
+</style>
 <body>
     <h2>Select Folder to Upload</h2>
     
@@ -13,8 +27,18 @@
     
     <!-- Upload Button -->
     <button id="uploadButton">Upload</button>
+    <div class="scrollable-window" id="logOutput">
+
+    </div>
 
     <script>
+         const ws = new WebSocket('ws://localhost:3000');
+         ws.onmessage = e => {
+            const logOutput = document.getElementById('logOutput');
+            logOutput.textContent += e.data + '\n';  // Append new log data
+            // Scroll to the bottom of the log output
+            logOutput.scrollTop = logOutput.scrollHeight;  
+        };
         document.getElementById('uploadButton').addEventListener('click', function() {
             const fileInput = document.getElementById('fileInput');
             const files = fileInput.files;
@@ -28,11 +52,18 @@
             const formData = new FormData();
 
             for (const file of files) {
+                const relativePath = file.webkitRelativePath;
+
+                // Filter out any files from "node_modules" folder
+                if (relativePath.includes('node_modules')) {
+                    console.log(`❌ Excluding node_modules file: ${relativePath}`);
+                    continue; // Skip this file
+                }
+
                 formData.append('files[]', file); // Append the file
-    formData.append('paths[]', file.webkitRelativePath);// Append files
-                const relativePath = './uploads/' + file.webkitRelativePath;
-                if (!filePaths.includes(relativePath)) {
-                    filePaths.push(relativePath);
+                const pathToUpload = './uploads/' + relativePath;
+                if (!filePaths.includes(pathToUpload)) {
+                    filePaths.push(pathToUpload);
                 }
             }
 
